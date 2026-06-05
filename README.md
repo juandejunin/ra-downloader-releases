@@ -39,13 +39,13 @@ RyA-Downloader-vX.X.X.zip
 
 ## 🚀 Descarga e instalación paso a paso
 
-### 👉 [⬇ Descargar última versión](https://github.com/juandejunin/ra-downloader/releases/latest)
+### 👉 [⬇ Descargar última versión](https://github.com/juandejunin/ra-downloader-releases/releases/latest)
 
 ---
 
 ### Paso 1 — Descargar el `.zip`
 
-Andá a la sección **[Releases](https://github.com/juandejunin/ra-downloader/releases)** y descargá el archivo **`RyA-Downloader-vX.X.X.zip`**.
+Andá a la sección **[Releases](https://github.com/juandejunin/ra-downloader-releases/releases)** y descargá el archivo **`RyA-Downloader-vX.X.X.zip`**.
 
 <!-- 📸 CAPTURA SUGERIDA: screenshot de la página de Releases en GitHub mostrando el .zip para descargar -->
 
@@ -182,7 +182,7 @@ Las herramientas incluidas tienen sus propias licencias:
 
 <p align="center">
   Hecho con 🎵 y 🐍 &nbsp;·&nbsp;
-  <a href="https://github.com/juandejunin/ra-downloader/releases/latest">⬇ Descargar última versión</a>
+  <a href="https://github.com/juandejunin/ra-downloader-releases/releases/latest">⬇ Descargar última versión</a>
   &nbsp;·&nbsp;
   <a href="https://www.youtube.com/@ritmoyalgoritmo-p1z">▶ Canal de YouTube</a>
 </p>
