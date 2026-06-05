@@ -29,7 +29,8 @@ RyA-Downloader-vX.X.X.zip
 ├── ra_downloader.exe   ← Aplicación principal (interfaz gráfica)
 ├── yt-dlp.exe          ← Motor de descarga
 ├── ffmpeg.exe          ← Procesador y conversor de audio
-└── r_a.ico             ← Ícono de la aplicación
+├── r_a.ico             ← Ícono de la aplicación
+└── RyA-Downloader-Instructivo.pdf  ← Guía de instalación y uso
 ```
 
 > ⚠️ Todos los archivos deben estar **siempre en la misma carpeta**. Si movés solo el `ra_downloader.exe`, la app no va a encontrar a `yt-dlp` y `ffmpeg` y no va a funcionar.
